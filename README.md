@@ -1,5 +1,8 @@
 # LST
 calculating the LST for the archaeological Buto area
+
+
+
 Map.centerObject(geometry);
 //cloud mask
 function maskL8sr(col) {
